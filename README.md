@@ -1,4 +1,4 @@
-# 🚀 AI Integration ProjectS
+# 🚀 AI Integration Project
 
 Welcome to the future foundation of our upcoming AI-powered platform built using the MERN stack with AI integration capabilities.
 
